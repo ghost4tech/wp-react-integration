@@ -22,11 +22,6 @@ An insanely easy way to add modern React apps to your WordPress plugins! Stop wr
 # Copy this folder to your plugin
 cp -r react-app your-plugin/
 cd your-plugin/react-app
-
-# Clean up things you don't need
-rm -rf src/testing
-rm TESTING.md
-rm src/components/Example.jsx
 ```
 
 ### Step 2: Install Dependencies
