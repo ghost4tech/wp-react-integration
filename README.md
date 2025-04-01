@@ -1,4 +1,4 @@
-# 🚀 React + NextUI WordPress Starter Pack!
+# 🚀 React + Tailwind Css WordPress Starter Pack!
 
 **Created by Aymen Boukhatem - Yaxii Dev**
 
